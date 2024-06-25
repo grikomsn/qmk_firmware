@@ -22,5 +22,3 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #define WS2812_PWM_PAL_MODE 1
 #define WS2812_PWM_DMA_STREAM STM32_DMA1_STREAM3
 #define WS2812_PWM_DMA_CHANNEL 3
-
-#define GRAVE_ESC_GUI_OVERRIDE 1

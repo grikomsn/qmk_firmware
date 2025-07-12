@@ -16,5 +16,6 @@
 
 #pragma once
 
-/* Enable caps-lock LED */
+#define BOTH_SHIFTS_TURNS_ON_CAPS_WORD
 #define CAPS_LOCK_LED_INDEX 30
+#define GRAVE_ESC_GUI_OVERRIDE 1
